@@ -1,1 +1,1 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HypnotizedLeda?count_private=true&theme=dark&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HypnotizedLeda&theme=dark&show_icons=true&count_private=true)
