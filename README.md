@@ -6,3 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=HypnotizedLeda&theme=dark&show_icons=true&count_private=true&hide=stars,issues"
 alt="github-stats"/>
 </p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HypnotizedLeda&theme=dark"
+alt="github-streak-stats"/>
+</p>
